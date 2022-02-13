@@ -1,0 +1,101 @@
+patient_no,gender,age,item1,item2,item3,item4,item5,item6,item7,item8
+1,Male,50,Most of the time,Some of the time,Hardly any of the time,Some of the time,A little of the time,A little of the time,A little of the time,A little of the time
+2,Male,50,Some of the time,Some of the time,Some of the time,A good bit of the time,A good bit of the time,A little of the time,A good bit of the time,A little of the time
+3,Male,55,Hardly any of the time,Hardly any of the time,A little of the time,A little of the time,A little of the time,Most of the time,A little of the time,A little of the time
+4,Female,40,A good bit of the time,A good bit of the time,A good bit of the time,Some of the time,A good bit of the time,Most of the time,Some of the time,A good bit of the time
+5,Female,52,All of the time,Most of the time,All of the time,A good bit of the time,All of the time,All of the time,All of the time,All of the time
+6,Female,69,None of the time,Some of the time,Hardly any of the time,A little of the time,None of the time,Hardly any of the time,Hardly any of the time,A little of the time
+7,Male,64,Some of the time,A good bit of the time,Most of the time,A good bit of the time,Most of the time,Most of the time,Some of the time,Most of the time
+8,Male,53,A little of the time,Some of the time,Some of the time,A little of the time,Some of the time,A good bit of the time,A little of the time,A little of the time
+9,Male,44,A good bit of the time,A good bit of the time,All of the time,A little of the time,A good bit of the time,A good bit of the time,None of the time,A little of the time
+10,Female,58,Hardly any of the time,A little of the time,A good bit of the time,A good bit of the time,A good bit of the time,Some of the time,A little of the time,A good bit of the time
+11,Female,58,Some of the time,Some of the time,A little of the time,A good bit of the time,Most of the time,A good bit of the time,A good bit of the time,Most of the time
+12,Male,67,Hardly any of the time,Some of the time,Some of the time,Some of the time,Hardly any of the time,Hardly any of the time,Some of the time,Some of the time
+13,Male,66,A little of the time,A little of the time,Some of the time,Some of the time,Some of the time,Most of the time,A little of the time,A little of the time
+14,Female,43,Most of the time,A good bit of the time,Some of the time,Most of the time,Most of the time,All of the time,A little of the time,Most of the time
+15,Male,65,Most of the time,A good bit of the time,Some of the time,Some of the time,Most of the time,A good bit of the time,All of the time,A little of the time
+16,Male,66,Most of the time,All of the time,A good bit of the time,Most of the time,Most of the time,All of the time,A good bit of the time,All of the time
+17,Female,74,A little of the time,Some of the time,A little of the time,A good bit of the time,A little of the time,All of the time,All of the time,All of the time
+18,Female,58,All of the time,Some of the time,All of the time,Hardly any of the time,All of the time,A good bit of the time,All of the time,All of the time
+19,Female,70,A good bit of the time,Most of the time,Most of the time,A little of the time,All of the time,All of the time,All of the time,All of the time
+20,Female,61,Some of the time,A little of the time,Some of the time,Some of the time,Some of the time,A little of the time,A little of the time,Some of the time
+21,Female,59,All of the time,Some of the time,A little of the time,A good bit of the time,All of the time,All of the time,All of the time,A good bit of the time
+22,Female,68,All of the time,Most of the time,Some of the time,A little of the time,All of the time,A little of the time,Most of the time,Most of the time
+23,Male,33,A good bit of the time,All of the time,All of the time,All of the time,All of the time,All of the time,All of the time,All of the time
+24,Female,36,Some of the time,A little of the time,Some of the time,A good bit of the time,A little of the time,Some of the time,None of the time,A little of the time
+25,Female,60,None of the time,Some of the time,Some of the time,A good bit of the time,Hardly any of the time,Some of the time,Hardly any of the time,Some of the time
+26,Female,63,A good bit of the time,Most of the time,Most of the time,A good bit of the time,Most of the time,Some of the time,A little of the time,Most of the time
+27,Male,39,A little of the time,A little of the time,Most of the time,A little of the time,Most of the time,Some of the time,Some of the time,A little of the time
+28,Male,50,Some of the time,Some of the time,A good bit of the time,Some of the time,Most of the time,Most of the time,None of the time,A little of the time
+29,Male,56,All of the time,Some of the time,All of the time,Some of the time,All of the time,All of the time,None of the time,None of the time
+30,Female,69,A little of the time,None of the time,Some of the time,Hardly any of the time,Some of the time,Hardly any of the time,None of the time,None of the time
+31,Male,54,A good bit of the time,Some of the time,A good bit of the time,Some of the time,A good bit of the time,Some of the time,Some of the time,A little of the time
+32,Female,64,Most of the time,A good bit of the time,A good bit of the time,Some of the time,All of the time,All of the time,Some of the time,Some of the time
+33,Male,57,All of the time,All of the time,All of the time,A little of the time,All of the time,All of the time,A good bit of the time,All of the time
+34,Female,73,Some of the time,A good bit of the time,Most of the time,Some of the time,Some of the time,All of the time,All of the time,All of the time
+35,Female,49,Most of the time,Some of the time,All of the time,Some of the time,All of the time,Most of the time,A good bit of the time,Hardly any of the time
+36,Male,57,All of the time,Some of the time,All of the time,A little of the time,All of the time,All of the time,A good bit of the time,Most of the time
+37,Female,60,None of the time,Hardly any of the time,Some of the time,A little of the time,Some of the time,Hardly any of the time,Hardly any of the time,None of the time
+38,Female,44,A little of the time,A little of the time,Some of the time,A little of the time,A little of the time,A good bit of the time,A little of the time,A good bit of the time
+39,Male,47,Some of the time,Some of the time,Some of the time,A good bit of the time,Some of the time,Some of the time,Hardly any of the time,Hardly any of the time
+40,Male,68,A little of the time,Some of the time,A little of the time,A good bit of the time,A little of the time,Most of the time,Hardly any of the time,A little of the time
+41,Female,68,Some of the time,Some of the time,Some of the time,Most of the time,Some of the time,Some of the time,Some of the time,Some of the time
+42,Female,75,Some of the time,None of the time,None of the time,A good bit of the time,Hardly any of the time,Some of the time,Some of the time,Hardly any of the time
+43,Male,58,A good bit of the time,Some of the time,Some of the time,Most of the time,A good bit of the time,A good bit of the time,Most of the time,A little of the time
+44,Female,80,Hardly any of the time,Some of the time,A good bit of the time,Hardly any of the time,Hardly any of the time,A good bit of the time,A little of the time,Some of the time
+45,Male,65,Some of the time,Some of the time,Most of the time,A little of the time,All of the time,A little of the time,All of the time,All of the time
+46,Female,54,Some of the time,Most of the time,Some of the time,Most of the time,Some of the time,A good bit of the time,A good bit of the time,Most of the time
+47,Female,60,A little of the time,None of the time,A good bit of the time,None of the time,A good bit of the time,Some of the time,A little of the time,Hardly any of the time
+48,Male,54,Hardly any of the time,A little of the time,Hardly any of the time,Hardly any of the time,A little of the time,Some of the time,A little of the time,A little of the time
+49,Female,57,None of the time,None of the time,Some of the time,A little of the time,A good bit of the time,None of the time,None of the time,None of the time
+50,Female,53,Most of the time,None of the time,Hardly any of the time,Some of the time,A little of the time,All of the time,All of the time,Hardly any of the time
+51,Female,50,A good bit of the time,A good bit of the time,Some of the time,A good bit of the time,Some of the time,A little of the time,Most of the time,All of the time
+52,Male,52,All of the time,Some of the time,All of the time,All of the time,All of the time,Some of the time,All of the time,None of the time
+53,Female,57,Hardly any of the time,None of the time,Hardly any of the time,A little of the time,A good bit of the time,Hardly any of the time,None of the time,None of the time
+54,Female,78,All of the time,Some of the time,All of the time,Some of the time,All of the time,Some of the time,All of the time,Some of the time
+55,Female,75,None of the time,A little of the time,A good bit of the time,Some of the time,Most of the time,None of the time,A little of the time,Hardly any of the time
+56,Male,63,Hardly any of the time,None of the time,A little of the time,Some of the time,Hardly any of the time,Some of the time,A little of the time,None of the time
+57,Male,61,Some of the time,All of the time,Some of the time,A good bit of the time,All of the time,All of the time,All of the time,All of the time
+58,Female,78,All of the time,Some of the time,A good bit of the time,A little of the time,All of the time,Most of the time,All of the time,A good bit of the time
+59,Female,70,A little of the time,A little of the time,Most of the time,A little of the time,Some of the time,Most of the time,A little of the time,A little of the time
+60,Female,62,None of the time,Some of the time,A good bit of the time,Some of the time,Most of the time,All of the time,Hardly any of the time,Some of the time
+61,Female,55,A little of the time,A little of the time,Some of the time,Some of the time,A good bit of the time,A good bit of the time,Hardly any of the time,Hardly any of the time
+62,Male,72,None of the time,Hardly any of the time,A little of the time,Some of the time,None of the time,None of the time,None of the time,None of the time
+63,Male,58,All of the time,Most of the time,Some of the time,Most of the time,Some of the time,All of the time,All of the time,Most of the time
+64,Female,67,Some of the time,None of the time,Hardly any of the time,None of the time,Some of the time,Hardly any of the time,Some of the time,None of the time
+65,Male,55,Some of the time,A good bit of the time,A little of the time,Hardly any of the time,A little of the time,Some of the time,None of the time,Some of the time
+66,Male,67,None of the time,Some of the time,None of the time,Hardly any of the time,None of the time,A little of the time,None of the time,None of the time
+67,Female,72,Most of the time,Most of the time,Most of the time,Some of the time,Most of the time,Most of the time,Most of the time,Most of the time
+68,Female,76,None of the time,None of the time,Some of the time,Some of the time,Some of the time,A good bit of the time,None of the time,Hardly any of the time
+69,Male,68,A little of the time,Hardly any of the time,None of the time,All of the time,Most of the time,Hardly any of the time,None of the time,None of the time
+70,Female,54,All of the time,A good bit of the time,All of the time,All of the time,All of the time,All of the time,All of the time,All of the time
+71,Male,56,Hardly any of the time,Some of the time,All of the time,A good bit of the time,Most of the time,Some of the time,None of the time,Hardly any of the time
+72,Male,58,Some of the time,Most of the time,A good bit of the time,All of the time,A good bit of the time,All of the time,All of the time,Most of the time
+73,Female,60,None of the time,Hardly any of the time,Some of the time,A little of the time,Some of the time,Some of the time,A little of the time,Hardly any of the time
+74,Female,49,A little of the time,A little of the time,Some of the time,Hardly any of the time,A good bit of the time,A little of the time,Some of the time,Some of the time
+75,Female,52,Some of the time,Some of the time,Some of the time,A good bit of the time,Some of the time,A good bit of the time,A little of the time,Hardly any of the time
+76,Female,52,A little of the time,All of the time,Some of the time,Hardly any of the time,Some of the time,Some of the time,Most of the time,All of the time
+77,Female,47,All of the time,A good bit of the time,Some of the time,All of the time,A little of the time,All of the time,All of the time,All of the time
+78,Female,51,Some of the time,Some of the time,A good bit of the time,Most of the time,Some of the time,A good bit of the time,Hardly any of the time,A little of the time
+79,Female,57,A little of the time,A little of the time,A little of the time,Some of the time,Most of the time,A little of the time,Some of the time,A little of the time
+80,Female,66,Some of the time,Some of the time,A good bit of the time,Some of the time,A little of the time,A little of the time,A little of the time,Some of the time
+81,Male,64,Some of the time,Some of the time,A good bit of the time,Most of the time,A good bit of the time,All of the time,All of the time,Some of the time
+82,Male,62,Some of the time,Some of the time,A good bit of the time,A little of the time,Most of the time,Some of the time,Hardly any of the time,Hardly any of the time
+83,Male,37,All of the time,Some of the time,All of the time,A good bit of the time,All of the time,All of the time,A little of the time,A good bit of the time
+84,Female,56,A little of the time,A little of the time,A good bit of the time,A little of the time,A little of the time,Some of the time,A little of the time,A little of the time
+85,Female,60,A little of the time,Some of the time,Most of the time,A good bit of the time,A good bit of the time,A good bit of the time,A good bit of the time,Some of the time
+86,Male,61,Some of the time,A good bit of the time,A good bit of the time,A little of the time,Most of the time,A good bit of the time,Some of the time,Most of the time
+87,Male,69,Some of the time,Some of the time,Some of the time,Some of the time,Some of the time,Some of the time,None of the time,Some of the time
+88,Male,52,All of the time,Some of the time,Some of the time,All of the time,All of the time,All of the time,All of the time,Most of the time
+89,Female,78,None of the time,None of the time,Some of the time,A little of the time,Hardly any of the time,Hardly any of the time,None of the time,None of the time
+90,Female,75,Some of the time,A good bit of the time,Some of the time,A good bit of the time,A good bit of the time,Most of the time,A little of the time,Some of the time
+91,Female,68,Hardly any of the time,A little of the time,Hardly any of the time,Some of the time,Hardly any of the time,Some of the time,A little of the time,A little of the time
+92,Female,44,Some of the time,A good bit of the time,Some of the time,A little of the time,A little of the time,Most of the time,All of the time,All of the time
+93,Female,68,None of the time,All of the time,Most of the time,A little of the time,Most of the time,All of the time,All of the time,Most of the time
+94,Female,62,All of the time,Some of the time,All of the time,A little of the time,All of the time,All of the time,Some of the time,Some of the time
+95,Female,57,Some of the time,Most of the time,Most of the time,A good bit of the time,A good bit of the time,Some of the time,Some of the time,Most of the time
+96,Female,69,Some of the time,A little of the time,Most of the time,Hardly any of the time,A good bit of the time,Some of the time,Most of the time,Some of the time
+97,Female,57,Some of the time,Hardly any of the time,Some of the time,None of the time,Some of the time,Most of the time,Some of the time,Hardly any of the time
+98,Male,50,Some of the time,Some of the time,Some of the time,Some of the time,A little of the time,Some of the time,Some of the time,A little of the time
+99,Male,57,All of the time,A good bit of the time,A little of the time,Some of the time,All of the time,A good bit of the time,A good bit of the time,A good bit of the time
+100,Female,59,A good bit of the time,Some of the time,All of the time,A little of the time,Most of the time,A good bit of the time,All of the time,Hardly any of the time

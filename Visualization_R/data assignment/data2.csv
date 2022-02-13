@@ -1,0 +1,309 @@
+pat_no,drug,hbvlog,hbeag,afp,liverparenchyma,liversurface_,lesion
+2,Enticavir,1.3,Negative,3,Fatty liver,Normal,No
+6,Tenofovir,1.3,Negative,4.4000001,Normal,Normal,No
+7,Tenofovir,1.3,Positive,3.3,Normal,Normal,Nodule/Mass
+9,Tenofovir,1.3,Negative,1.1,Heterogeneous,Normal,Nodule/Mass
+14,Enticavir,1.3,Positive,2.5999999,Normal,Normal,No
+19,Tenofovir,1.3,Negative,1.4,Normal,Normal,No
+20,Tenofovir,1.53,Negative,2.2,Normal,Normal,No
+23,Enticavir,1.3,Positive,2.8,Normal,Normal,No
+47,Tenofovir,1.3,Positive,4.5999999,Fatty liver,Normal,No
+53,Tenofovir,1.3,Negative,2.7,Fatty liver,Normal,No
+55,Tenofovir,1.3,Negative,2,Heterogeneous,Normal,Numerous
+57,Tenofovir,1.3,Positive,2.4000001,Fatty liver,Normal,No
+58,Tenofovir,1.3,Negative,2.4000001,Fatty liver,Normal,No
+60,Tenofovir,1.3,Negative,2.0999999,Normal,Normal,No
+74,Enticavir,1.3,Negative,2.5999999,Heterogeneous,irregular,Numerous
+76,Enticavir,1.3,Negative,2.8,Normal,Normal,Nodule/Mass
+83,Tenofovir,1.3,Negative,3.2,Normal,Normal,No
+89,Tenofovir,1.3,Negative,1.7,Heterogeneous,Normal,No
+90,Tenofovir,1.3,Positive,1.4,Heterogeneous,Normal,Numerous
+110,Tenofovir,1.3,Negative,1.9,Coarse,Normal,Numerous
+112,Enticavir,1.3,Negative,10.9,Normal,Normal,No
+119,Enticavir,1.5,Positive,2.5,Normal,Normal,No
+126,Tenofovir,1.3,Negative,2.9000001,Normal,Normal,No
+133,Enticavir,1.3,Positive,2.9000001,Fatty liver,Normal,No
+142,Tenofovir,1.3,Negative,3.9000001,Fatty liver,Normal,No
+150,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,No
+157,Enticavir,1.3,Negative,2.2,Heterogeneous,Normal,Numerous
+161,Enticavir,1.3,Negative,4.0999999,Normal,Normal,Nodule/Mass
+171,Enticavir,1.3,Negative,2.4000001,Heterogeneous,Normal,Nodule/Mass
+173,Tenofovir,1.3,Negative,6.5,Heterogeneous,Normal,Numerous
+174,Enticavir,1.3,Negative,2.5999999,Coarse,Nodular,No
+175,Enticavir,1.3,Negative,2.0999999,Fatty liver,Normal,No
+177,Tenofovir,1.3,Positive,2.5,Fatty liver,Normal,No
+194,Enticavir,2.0799999,Positive,1,Normal,Normal,No
+198,Enticavir,6.3499999,Positive,2.3,Fatty liver,Normal,Nodule/Mass
+214,Enticavir,1.3,Positive,3,Normal,Normal,No
+215,Tenofovir,1.3,Negative,1.1,Heterogeneous,Normal,Nodule/Mass
+221,Enticavir,1.3,Negative,1.8,Normal,Normal,No
+222,Enticavir,1.3,Positive,1.6,Normal,Normal,No
+228,Tenofovir,1.3,Positive,2,Normal,Normal,No
+234,Enticavir,1.3,Negative,1.4,Heterogeneous,Normal,Numerous
+250,Enticavir,1.3,Negative,1.5,Heterogeneous,Normal,Numerous
+251,Tenofovir,1.3,Negative,1.2,Normal,Normal,No
+252,Enticavir,1.3,Negative,2.4000001,Heterogeneous,Normal,Numerous
+254,Enticavir,1.3,Negative,1.2,Fatty liver,Normal,No
+262,Tenofovir,1.3,Positive,2.5,Heterogeneous,Normal,Numerous
+268,Tenofovir,1.3,Positive,2.5,Normal,Normal,Nodule/Mass
+271,Enticavir,1.3,Positive,6.5,Normal,Normal,No
+289,Tenofovir,1.3,Negative,2.8,Heterogeneous,Normal,No
+290,Enticavir,1.3,Positive,6.0999999,Fatty liver,Normal,No
+295,Tenofovir,1.3,Negative,2.5999999,Normal,Normal,No
+306,Enticavir,1.3,Negative,3.5999999,Normal,Normal,No
+314,Enticavir,1.3,Negative,2.0999999,Fatty liver,Normal,No
+319,Enticavir,1.3,Positive,1.8,Normal,Normal,No
+331,Tenofovir,1.3,Negative,2.5999999,Heterogeneous,irregular,Numerous
+337,Enticavir,1.3,Negative,1.9,Normal,Normal,No
+345,Tenofovir,1.3,Negative,3.3,Fatty liver,Normal,No
+355,Enticavir,1.3,Negative,3,Normal,Normal,No
+356,Enticavir,1.3,Negative,3.3,Normal,Normal,No
+360,Tenofovir,1.3,Negative,2.3,Fatty liver,Normal,Nodule/Mass
+367,Tenofovir,1.3,Negative,5.8000002,Normal,Normal,No
+369,Enticavir,1.3,Negative,1.6,Heterogeneous,irregular,Nodule/Mass
+376,Enticavir,1.3,Negative,3.3,Fatty liver,Normal,No
+381,Enticavir,1.3,Negative,1.8,Heterogeneous,Normal,No
+391,Enticavir,1.3,Negative,3.7,Normal,Normal,No
+413,Enticavir,1.3,Negative,2.5,Normal,Normal,No
+434,Tenofovir,1.3,Negative,1.7,Normal,Normal,No
+439,Enticavir,1.3,Positive,4.6999998,Normal,Normal,Nodule/Mass
+443,Enticavir,1.3,Negative,2.8,Normal,Normal,Nodule/Mass
+461,Enticavir,1.3,Negative,2.0999999,Normal,Normal,No
+467,Tenofovir,1.3,Negative,5.6999998,Normal,Normal,No
+483,Enticavir,1.3,Negative,2.8,Normal,Normal,No
+488,Tenofovir,1.3,Negative,2.5,Normal,Normal,No
+491,Tenofovir,1.3,Negative,9.3999996,Fatty liver,Normal,No
+493,Enticavir,1.3,Negative,1.7,Coarse,irregular,Numerous
+507,Tenofovir,1.3,Negative,2.8,Normal,Normal,No
+508,Enticavir,1.3,Positive,2.0999999,Normal,Normal,Nodule/Mass
+515,Enticavir,1.3,Negative,2,Normal,Normal,No
+519,Tenofovir,1.3,Negative,2.0999999,Fatty liver,Normal,No
+521,Enticavir,1.3,Negative,3.5999999,Normal,Normal,No
+541,Tenofovir,1.3,Negative,6.4000001,Normal,Normal,No
+544,Enticavir,1.3,Positive,2.7,Fatty liver,Normal,No
+545,Enticavir,1.3,Negative,2.3,Fatty liver,Normal,No
+546,Tenofovir,1.3,Positive,1.8,Heterogeneous,Normal,Numerous
+549,Enticavir,1.3,Negative,2,Normal,Normal,No
+551,Tenofovir,1.3,Negative,3.3,Fatty liver,Normal,No
+559,Tenofovir,1.3,Positive,2.9000001,Coarse,Normal,No
+567,Enticavir,1.3,Negative,5.6999998,Heterogeneous,Normal,No
+571,Enticavir,1.3,Negative,3.3,Normal,Normal,No
+572,Enticavir,1.3,Negative,1.6,Normal,Normal,No
+574,Enticavir,1.3,Negative,2.2,Normal,Normal,No
+584,Tenofovir,1.3,Negative,14.4,Normal,Normal,Nodule/Mass
+602,Enticavir,1.3,Negative,1.3,Normal,Normal,No
+608,Enticavir,1.3,Negative,2.8,Heterogeneous,irregular,Numerous
+610,Tenofovir,1.3,Negative,3.0999999,Normal,Normal,No
+612,Tenofovir,1.3,Negative,2.7,Fatty liver,Normal,No
+613,Enticavir,1.3,Negative,6.3000002,Normal,Normal,No
+619,Enticavir,1.3,Negative,5.5999999,Normal,Normal,No
+624,Tenofovir,1.3,Negative,5.3000002,Normal,Normal,No
+637,Enticavir,1.3,Negative,2,Normal,Normal,No
+638,Enticavir,1.3,Negative,3.4000001,Normal,Normal,No
+645,Enticavir,1.3,Positive,.69999999,Normal,Normal,No
+649,Tenofovir,1.3,Negative,3.5,Fatty liver,Normal,No
+651,Enticavir,1.3,Negative,2.0999999,Fatty liver,Normal,No
+656,Tenofovir,1.3,Positive,3.4000001,Heterogeneous,Normal,No
+658,Tenofovir,1.3,Negative,1.7,Fatty liver,Normal,No
+659,Enticavir,1.3,Negative,1.7,Heterogeneous,Normal,Numerous
+668,Enticavir,1.3,Positive,3.4000001,Coarse,Normal,Numerous
+673,Tenofovir,1.3,Negative,2.2,Heterogeneous,Normal,Numerous
+680,Tenofovir,1.3,Negative,4.5,Normal,Normal,No
+686,Tenofovir,1.3,Negative,5.0999999,Normal,Normal,Nodule/Mass
+689,Enticavir,1.3,Negative,3,Heterogeneous,Normal,No
+703,Tenofovir,1.3,Negative,1.8,Normal,Normal,No
+705,Tenofovir,1.3,Positive,1.9,Normal,Normal,No
+710,Enticavir,1.3,Negative,2.9000001,Normal,Normal,Nodule/Mass
+713,Enticavir,1.58,Positive,1.8,Normal,Normal,No
+716,Enticavir,1.3,Positive,2.2,Fatty liver,Normal,No
+717,Tenofovir,1.3,Negative,2.7,Normal,Normal,No
+729,Tenofovir,1.3,Negative,1.4,Heterogeneous,Normal,No
+732,Tenofovir,1.3,Negative,1.9,Normal,Normal,No
+735,Tenofovir,1.3,Negative,1.9,Normal,Normal,No
+738,Tenofovir,1.3,Negative,1.4,Normal,Normal,No
+773,Enticavir,1.3,Negative,2.4000001,Heterogeneous,Normal,No
+780,Enticavir,1.3,Positive,1.6,Heterogeneous,Normal,Numerous
+787,Enticavir,1.3,Negative,3,Heterogeneous,irregular,Numerous
+789,Tenofovir,1.3,Negative,3.2,Heterogeneous,Normal,Numerous
+792,Tenofovir,1.3,Negative,1.5,Normal,Normal,No
+793,Enticavir,1.3,Negative,4.9000001,Heterogeneous,Normal,No
+794,Tenofovir,1.3,Negative,4.6999998,Normal,Normal,No
+795,Tenofovir,1.37,Positive,4.0999999,Normal,Normal,No
+809,Enticavir,1.3,Negative,4,Normal,Normal,No
+811,Tenofovir,1.3,Negative,1.4,Heterogeneous,Normal,Nodule/Mass
+813,Tenofovir,1.3,Negative,1.8,Normal,Normal,No
+816,Enticavir,1.3,Negative,2.7,Normal,Normal,No
+838,Enticavir,1.3,Negative,1,Normal,Normal,No
+850,Tenofovir,1.3,Negative,2.7,Normal,Normal,No
+862,Enticavir,1.3,Positive,2,Normal,Normal,No
+866,Enticavir,1.3,Negative,.89999998,Normal,Normal,Nodule/Mass
+869,Enticavir,2.4000001,Positive,3.2,Fatty liver,Normal,No
+876,Enticavir,1.3,Negative,4.0999999,Coarse,irregular,Numerous
+879,Tenofovir,1.3,Negative,3,Normal,Normal,No
+898,Tenofovir,1.3,Negative,2.0999999,Heterogeneous,Normal,Numerous
+908,Tenofovir,1.3,Positive,1.7,Fatty liver,Normal,No
+928,Enticavir,1.3,Negative,2.0999999,Normal,Normal,No
+953,Tenofovir,1.3,Negative,3.3,Fatty liver,Normal,Nodule/Mass
+957,Tenofovir,1.3,Negative,1.9,Normal,Normal,No
+958,Enticavir,1.3,Negative,1.4,Normal,Normal,No
+965,Tenofovir,1.3,Negative,1.9,Normal,Normal,No
+975,Enticavir,1.3,Negative,3.8,Normal,Normal,No
+980,Enticavir,1.3,Negative,1.4,Heterogeneous,Normal,Numerous
+988,Enticavir,1.3,Negative,5,Fatty liver,Normal,No
+1011,Tenofovir,1.3,Negative,1.9,Normal,Normal,No
+1017,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,No
+1038,Tenofovir,1.3,Negative,2.5999999,Normal,Normal,No
+1060,Tenofovir,1.3,Positive,2.5,Normal,Normal,No
+1063,Enticavir,1.3,Positive,2.0999999,Normal,Normal,No
+1066,Tenofovir,1.3,Negative,1.9,Heterogeneous,Normal,No
+1069,Enticavir,1.3,Negative,2.0999999,Heterogeneous,Normal,No
+1092,Enticavir,1.3,Negative,1.1,Normal,Normal,No
+1113,Tenofovir,1.3,Positive,2.5,Normal,Normal,No
+1114,Tenofovir,1.3,Negative,2.3,Normal,Normal,No
+1125,Tenofovir,1.3,Negative,2.9000001,Normal,Normal,No
+1126,Enticavir,1.3,Negative,3.9000001,Fatty liver,Normal,No
+1136,Enticavir,1.3,Positive,2,Normal,Normal,No
+1143,Enticavir,1.3,Negative,1.4,Heterogeneous,Normal,Numerous
+1150,Tenofovir,1.3,Negative,2.3,Fatty liver,Normal,No
+1152,Tenofovir,1.3,Negative,1.4,Fatty liver,Normal,No
+1154,Tenofovir,1.3,Negative,6.0999999,Normal,Normal,No
+1161,Tenofovir,1.3,Negative,2.5,Fatty liver,Normal,No
+1163,Tenofovir,1.3,Positive,2.5,Fatty liver,Normal,No
+1173,Enticavir,1.3,Positive,4.9000001,Normal,Normal,No
+1176,Tenofovir,1.3,Negative,5.0999999,Normal,Normal,Nodule/Mass
+1179,Enticavir,1.3,Negative,2.2,Normal,Normal,No
+1180,Enticavir,1.3,Negative,2.0999999,Heterogeneous,irregular,Numerous
+1185,Tenofovir,1.3,Positive,4.6999998,Heterogeneous,irregular,Numerous
+1211,Tenofovir,1.3,Negative,3.2,Heterogeneous,Normal,Nodule/Mass
+1222,Tenofovir,1.3,Negative,7.4000001,Fatty liver,Normal,No
+1228,Enticavir,1.3,Positive,3.0999999,Normal,Normal,No
+1238,Tenofovir,1.3,Negative,5.0999999,Normal,Normal,No
+1243,Tenofovir,1.3,Negative,6,Heterogeneous,Nodular,No
+1244,Enticavir,1.3,Negative,4.1999998,Fatty liver,Normal,No
+1259,Enticavir,1.3,Negative,4.6999998,Normal,Normal,No
+1278,Enticavir,1.3,Negative,2.0999999,Normal,Normal,No
+1288,Enticavir,1.3,Positive,3.5999999,Fatty liver,Normal,No
+1295,Tenofovir,1.3,Negative,1.2,Fatty liver,Normal,No
+1305,Tenofovir,1.3,Negative,6.5,Heterogeneous,Normal,Numerous
+1307,Tenofovir,1.3,Negative,.89999998,Heterogeneous,Normal,No
+1310,Enticavir,1.3,Positive,2.5999999,Normal,Normal,No
+1312,Tenofovir,1.3,Positive,1.5,Heterogeneous,Normal,No
+1315,Tenofovir,1.3,Negative,8,Fatty liver,Normal,No
+1325,Enticavir,1.3,Negative,2,Fatty liver,Normal,No
+1326,Enticavir,1.3,Negative,1.9,Heterogeneous,Normal,Numerous
+1329,Tenofovir,1.3,Negative,2.8,Normal,Normal,No
+1371,Tenofovir,1.3,Negative,2.0999999,Normal,Normal,No
+1381,Tenofovir,1.3,Negative,3.7,Normal,Normal,No
+1387,Enticavir,1.3,Negative,3.9000001,Normal,Normal,No
+1388,Tenofovir,1.3,Positive,2.0999999,Fatty liver,Normal,No
+1396,Tenofovir,1.3,Positive,3.3,Fatty liver,Normal,No
+1398,Tenofovir,1.3,Negative,3.5999999,Heterogeneous,Normal,Numerous
+1410,Tenofovir,1.3,Negative,5.0999999,Normal,Normal,No
+1414,Enticavir,1.3,Negative,2.5,Normal,Normal,Nodule/Mass
+1417,Tenofovir,1.3,Negative,2,Fatty liver,Normal,No
+1418,Tenofovir,1.3,Positive,2.4000001,Fatty liver,Normal,No
+1428,Enticavir,1.3,Negative,1.9,Normal,Normal,No
+1432,Enticavir,1.3,Negative,4.3000002,Normal,Normal,No
+1435,Enticavir,1.3,Negative,2.8,Heterogeneous,Nodular,No
+1440,Tenofovir,1.3,Negative,1.7,Fatty liver,Normal,No
+1447,Enticavir,1.3,Negative,3.0999999,Coarse,Normal,No
+1474,Enticavir,1.6900001,Positive,3.2,Normal,Normal,No
+1484,Tenofovir,1.3,Negative,1.7,Heterogeneous,Normal,No
+1489,Tenofovir,1.3,Positive,2,Fatty liver,Normal,No
+1505,Tenofovir,1.3,Negative,3,Normal,Normal,Nodule/Mass
+1542,Enticavir,1.3,Negative,1.4,Heterogeneous,Normal,No
+1544,Tenofovir,1.3,Positive,2.2,Fatty liver,Normal,No
+1546,Enticavir,1.3,Negative,2.2,Normal,Normal,No
+1549,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,No
+1550,Enticavir,1.3,Negative,1.1,Normal,Normal,No
+1554,Enticavir,1.3,Negative,1.4,Normal,Normal,No
+1560,Tenofovir,1.3,Positive,4.5999999,Heterogeneous,Normal,Numerous
+1564,Enticavir,1.3,Negative,9.6000004,Normal,Normal,No
+1575,Enticavir,1.3,Negative,2.2,Heterogeneous,Normal,Numerous
+1580,Tenofovir,1.3,Negative,1.3,Heterogeneous,Nodular,Numerous
+1597,Enticavir,1.3,Negative,3.5999999,Fatty liver,Normal,No
+1625,Tenofovir,1.3,Negative,2.3,Normal,Normal,Nodule/Mass
+1654,Tenofovir,1.3,Negative,3.3,Fatty liver,Normal,No
+1659,Enticavir,1.3,Positive,1.9,Normal,Normal,No
+1660,Enticavir,1.3,Positive,2.7,Normal,Normal,No
+1663,Enticavir,1.3,Negative,1.7,Heterogeneous,Normal,No
+1668,Enticavir,1.3,Positive,2.7,Fatty liver,Normal,No
+1703,Tenofovir,1.3,Positive,3.4000001,Heterogeneous,irregular,No
+1706,Enticavir,1.3,Negative,5.1999998,Coarse,Nodular,Numerous
+1710,Enticavir,1.3,Negative,2.5,Normal,Normal,No
+1714,Enticavir,1.3,Positive,6.4000001,Fatty liver,Normal,No
+1718,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,No
+1719,Tenofovir,1.3,Negative,4.0999999,Normal,Normal,No
+1723,Tenofovir,1.3,Negative,3,Heterogeneous,Normal,Numerous
+1729,Enticavir,1.3,Negative,2.5999999,Normal,Normal,No
+1732,Enticavir,1.3,Negative,1.7,Fatty liver,Normal,No
+1744,Enticavir,1.3,Negative,3.5,Fatty liver,Normal,No
+1757,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,No
+1759,Tenofovir,1.3,Negative,3.0999999,Normal,Normal,No
+1771,Tenofovir,1.3,Negative,1.6,Heterogeneous,Nodular,No
+1794,Enticavir,1.3099999,Positive,3.4000001,Normal,Normal,No
+1795,Tenofovir,1.3,Negative,3,Fatty liver,Normal,No
+1806,Enticavir,1.3,Negative,3.3,Normal,Normal,No
+1811,Enticavir,1.5,Negative,1.1,Fatty liver,Normal,No
+1823,Enticavir,1.3,Negative,2.3,Fatty liver,Normal,No
+1827,Tenofovir,1.3,Negative,8.6000004,Fatty liver,Normal,No
+1837,Enticavir,1.73,Positive,2.5999999,Normal,Normal,Nodule/Mass
+1845,Tenofovir,1.3,Negative,2.7,Heterogeneous,Normal,Numerous
+1851,Tenofovir,1.3,Negative,1.4,Coarse,Nodular,No
+1853,Enticavir,1.3,Negative,1.8,Normal,Normal,Nodule/Mass
+1859,Tenofovir,1.3,Negative,2.7,Normal,Normal,No
+1868,Tenofovir,1.3,Positive,3.8,Normal,Normal,No
+1884,Enticavir,1.3,Negative,1.9,Heterogeneous,Normal,No
+1892,Enticavir,1.3,Negative,1.7,Heterogeneous,Normal,No
+1896,Enticavir,1.3,Positive,2.2,Heterogeneous,Normal,Numerous
+1899,Tenofovir,1.3,Negative,1.4,Normal,Normal,Nodule/Mass
+1901,Enticavir,1.3,Negative,2,Heterogeneous,Normal,Numerous
+1911,Tenofovir,1.3,Negative,2.0999999,Normal,Normal,Nodule/Mass
+1912,Tenofovir,1.3,Negative,2.8,Normal,Normal,No
+1913,Enticavir,1.3,Negative,3.7,Normal,Normal,No
+1927,Tenofovir,1.3,Negative,1.6,Fatty liver,Normal,No
+1951,Tenofovir,1.3,Negative,2,Heterogeneous,Normal,No
+1963,Enticavir,1.3,Positive,3.4000001,Fatty liver,Normal,No
+1987,Tenofovir,1.3,Negative,1.2,Normal,Normal,No
+1998,Enticavir,1.3,Negative,2.5,Normal,Normal,No
+2006,Enticavir,1.3,Negative,2.3,Fatty liver,Normal,No
+2011,Tenofovir,2.71,Negative,3.5999999,Fatty liver,Normal,No
+2014,Enticavir,1.3,Positive,2.8,Normal,Normal,No
+2017,Enticavir,1.3,Negative,1.6,Normal,Normal,No
+2027,Tenofovir,1.3,Negative,1.5,Normal,Normal,No
+2032,Enticavir,1.3,Negative,2,Heterogeneous,Normal,Nodule/Mass
+2056,Tenofovir,1.3,Negative,3.2,Heterogeneous,Normal,No
+2058,Tenofovir,1.3,Negative,1.8,Heterogeneous,Normal,Nodule/Mass
+2064,Tenofovir,1.3,Negative,4.5999999,Normal,Normal,No
+2070,Enticavir,1.3,Negative,3.2,Fatty liver,Normal,No
+2081,Enticavir,1.3,Negative,1.2,Fatty liver,Normal,No
+2083,Tenofovir,1.3,Negative,1.8,Heterogeneous,Normal,Numerous
+2092,Tenofovir,1.3,Negative,1.1,Heterogeneous,Normal,No
+2117,Enticavir,1.3,Negative,3.3,Normal,Normal,No
+2127,Tenofovir,1.3,Negative,3.5999999,Normal,Normal,No
+2154,Tenofovir,1.3,Negative,3.9000001,Heterogeneous,Normal,No
+2159,Tenofovir,1.3,Negative,3.2,Normal,Normal,No
+2188,Tenofovir,1.3,Negative,2.4000001,Normal,Normal,Nodule/Mass
+2192,Enticavir,1.3,Negative,1,Fatty liver,Normal,Nodule/Mass
+2195,Enticavir,1.3,Positive,2.5999999,Normal,Normal,No
+2205,Enticavir,1.3,Negative,3.3,Heterogeneous,Normal,No
+2206,Tenofovir,1.3,Negative,1.8,Fatty liver,Normal,No
+2207,Tenofovir,1.3,Positive,5.1999998,Heterogeneous,Normal,Numerous
+2215,Enticavir,1.3,Negative,4.0999999,Fatty liver,Normal,No
+2220,Tenofovir,1.3,Negative,2.4000001,Heterogeneous,Normal,Numerous
+2221,Enticavir,1.3,Negative,1.6,Heterogeneous,Normal,No
+2224,Tenofovir,1.3,Negative,2.7,Heterogeneous,Normal,No
+2229,Tenofovir,1.3,Negative,1.9,Heterogeneous,Normal,No
+2245,Enticavir,1.3,Positive,1,Normal,Normal,No
+2274,Tenofovir,1.3,Positive,5.6999998,Normal,Normal,No
+2285,Tenofovir,1.3,Negative,3,Normal,Normal,No
+2292,Enticavir,1.3,Negative,1.1,Fatty liver,Normal,No
+2294,Enticavir,1.3,Negative,3.7,Fatty liver,Normal,No
+2301,Tenofovir,1.3,Negative,2.7,Heterogeneous,Normal,No
+2302,Enticavir,1.3,Negative,1.2,Fatty liver,Normal,No
+2313,Enticavir,1.3,Negative,2.2,Normal,Normal,No
+2344,Tenofovir,1.3,Negative,2.9000001,Fatty liver,Normal,No
+2351,Tenofovir,1.3,Positive,2.9000001,Normal,Normal,No
+2360,Tenofovir,1.3,Negative,3.9000001,Normal,Normal,Nodule/Mass
+2384,Tenofovir,1.3,Negative,5.4000001,Normal,Normal,No
+2386,Enticavir,1.3,Negative,3.0999999,Heterogeneous,Normal,No
